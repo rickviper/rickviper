@@ -10,7 +10,7 @@ I am a passionate 19-year-old coder diving deep into the world of programming. C
 
 *   🌍  I'm based in Bengaluru, India
 *   ✉️  You can contact me at [ullasroy05@gmail.com](mailto:ullasroy05@gmail.com)
-*   🧠  I'm learning Python and C
+*   🧠  I'm learning Full Stack Web Development
 *   ⚡  I love dogs
 
 ### Skills 

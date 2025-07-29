@@ -27,5 +27,6 @@ I am a passionate CSE undergrad diving deep into the world of programming. Curre
 
 <b>My GitHub Stats</b>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rickviper&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="rickviper's GitHub Stats" />
-<img src="https://streak-stats.demolab.com?user=rickviper&theme=tokyonight&hide_border=true" alt="rickviper's GitHub Stats" />
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/rickviper"><img src="https://github-readme-stats.vercel.app/api?username=rickviper&theme=tokyonight&show_icons=true&hide=prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rickviper's GitHub stats" /></a>

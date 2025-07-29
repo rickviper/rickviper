@@ -28,3 +28,4 @@ I am a passionate CSE undergrad diving deep into the world of programming. Curre
 <b>My GitHub Stats</b>
 
 <img src="https://github-readme-stats.vercel.app/api?username=rickviper&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="rickviper's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=rickviper&theme=tokyonight&hide_border=true" alt="rickviper's GitHub Stats" />

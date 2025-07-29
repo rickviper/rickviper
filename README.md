@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CSE Student
 -----------
 
-I am a passionate 19-year-old coder diving deep into the world of programming. Currently exploring the realms of Python and C, eager to expand my knowledge and skills. 
+I am a passionate CSE undergrad diving deep into the world of programming. Currently exploring the realms of Full Stack WebDev, eager to expand my knowledge and skills. 
 💻Open to collaborations and learning opportunities | Let's connect and create something awesome together! 💡 
 🌟When I'm not coding, you might find me, gaming, exploring new tech, or enjoying the great outdoors! 🏞️
 
 *   🌍  I'm based in Bengaluru, India
 *   ✉️  You can contact me at [ullasroy05@gmail.com](mailto:ullasroy05@gmail.com)
-*   🧠  I'm learning Full Stack Web Development
+*   🧠  I'm learning AI & Neural Network
 *   ⚡  I love dogs
 
 ### Skills 

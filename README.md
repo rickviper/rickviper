@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ullas Roy
 =================================================================================================================================
 
-Web Developer | Programmer | AI Enthusiast
+Web Developer | Programmer | AI Geek
 ------------------------------------------
 
 I am a passionate CSE undergrad diving deep into the world of programming. Currently exploring the realms of Full Stack WebDev and AI, eager to expand my knowledge and skills. 💻Open to collaborations and learning opportunities. Let's connect and create something awesome together! 💡 🌟When I'm not coding, you might find me, gaming, reading, exploring new tech, or enjoying the great outdoors! 🏞️

@@ -8,7 +8,7 @@ I am a passionate CSE undergrad diving deep into the world of programming. Curre
 
 * 🌍  I'm based in Bengaluru, India
 * ✉️  You can contact me at [ullasroy05@gmail.com](mailto:ullasroy05@gmail.com) , <a href="https://www.linkedin.com/in/ullasroy/">LinkedIn</a>
-* 🧠  I'm learning Backend, AI and Neural Network
+* 🧠  I'm learning Backend, Gen AI and Neural Networks
 * ⚡  I would pet a tiger🐯 if I could.
 * 💻  Visit my site (under development) - <a href="https://ullasroy.in/">ullasroy.in</a>
 

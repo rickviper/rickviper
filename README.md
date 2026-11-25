@@ -4,7 +4,7 @@
 <tr>
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · rickviper</sub></p>
-<h1>ULLAS ROY</h1>
+<h1>ULLAS ROY <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px" alt="" /></h1>
 <h2>Full Stack Web Developer</h2>
 <p>Computer Science Engineering student in the 7th semester with hands-on experience building full-stack web applications, backend services, database-driven applications, and AI-powered interfaces. Proficient in Python, JavaScript, HTML, CSS, FastAPI, SQL, Streamlit, and cloud platforms including AWS, Oracle Cloud Infrastructure, and Google Cloud Platform. Built and deployed practical projects independently and as part of hackathon teams; secured 2nd Rank at the DigitISE-2K25 Hackathon.</p>
 <p><strong>● Building and sharing work in public</strong></p>
@@ -17,6 +17,8 @@
 </tr>
 </table>
 </div>
+
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 <h2>What teams can evaluate quickly</h2>
 
@@ -94,6 +96,51 @@
 </tr>
 </table>
 
+## 🛠️ Languages & Tools
+
+> ## Programming Languages
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48" style="margin: 4px;" />
+</p>
+
+> ## Frontend
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="48" height="48" style="margin: 4px;" />
+</p>
+
+> ## Backend
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" />
+</p>
+
+> ## Database
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" />
+</p>
+
+> ## DevOps & Cloud
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" />
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle Cloud Infrastructure" width="48" height="48" style="margin: 4px;" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" />
+</p>
+
+> ## Tools
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" />
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48" style="margin: 4px;" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" />
+</p>
+
 <h2>Consistency signal</h2>
 
 <p align="center">
@@ -111,7 +158,6 @@
 <td width="38%" valign="middle" align="right"><a href="https://github.com/rickviper">GitHub</a><br /><a href="https://ullasroy.dpdns.org">Website</a><br /><a href="https://linkedin.com/in/ullasroy">LinkedIn</a><br /><a href="mailto:ullasroy05@gmail.com">Email</a></td>
 </tr>
 </table>
-
 
 ## Experience
 

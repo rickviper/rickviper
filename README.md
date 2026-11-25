@@ -1,5 +1,9 @@
 <div align="center">
 
+<p><code>ullas@github ~ $ ./maintainer.sh</code></p>
+
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
@@ -18,7 +22,6 @@
 </table>
 </div>
 
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 <h2>What teams can evaluate quickly</h2>
 

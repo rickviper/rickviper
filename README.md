@@ -1,31 +1,121 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ullas Roy
-=================================================================================================================================
+<div align="center">
 
-Web Developer (full-stack) | Programmer | AI Developer
-------------------------------------------
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · rickviper</sub></p>
+<h1>ULLAS ROY</h1>
+<h2>Full Stack Web Developer</h2>
+<p>Computer Science Engineering student in the 7th semester with hands-on experience building full-stack web applications, backend services, database-driven applications, and AI-powered interfaces. Proficient in Python, JavaScript, HTML, CSS, FastAPI, SQL, Streamlit, and cloud platforms including AWS, Oracle Cloud Infrastructure, and Google Cloud Platform. Built and deployed practical projects independently and as part of hackathon teams; secured 2nd Rank at the DigitISE-2K25 Hackathon.</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Bengaluru, India</sub></p>
+<p><a href="https://github.com/rickviper">GitHub</a> &nbsp;·&nbsp; <a href="https://ullasroy.dpdns.org">Website</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/ullasroy">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:ullasroy05@gmail.com">Email</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/66552399?u=b327f02a567181b832d72775dd5cdc0b61955997&amp;v=4" width="180" alt="ULLAS ROY GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-I am a passionate CSE undergrad diving deep into the world of programming. Currently exploring the realms of Full Stack WebDev and AI, eager to expand my knowledge and skills. Open to collaborations and learning opportunities. Let's connect and create something awesome together! When I'm not coding, you might find me, gaming, reading, exploring new tech, or enjoying the great outdoors!
+<h2>What teams can evaluate quickly</h2>
 
-* 🌍  I'm based in Bengaluru, India
-* ✉️  You can contact me at [ullasroy05@gmail.com](mailto:ullasroy05@gmail.com) , <a href="https://www.linkedin.com/in/ullasroy/">LinkedIn</a>
-* 🧠  I'm learning Backend, Gen AI and Neural Networks
-* ⚡  I would pet a tiger🐯 if I could.
-* 🔗  Have a look at my site <a href="https://ullasroy.dpdns.org">ullasroy.dpdns.org</a>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Full Stack Web Developer · PixelForge · Lasso · Cutout</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>8 repositories · 2 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>116 contributions · 18 active days</p></td>
+</tr>
+</table>
 
-### Skills
+<p><sub>Computer Science Engineering student in the 7th semester with hands-on experience building full-stack web applications, backend services, database-driven applications, and AI-powered interfaces. Proficient in Python, JavaScript, HTML, CSS, FastAPI, SQL, Streamlit, and cloud platforms including AWS, Oracle Cloud Infrastructure, and Google Cloud Platform. Built and deployed practical projects independently and as part of hackathon teams; secured 2nd Rank at the DigitISE-2K25 Hackathon.</sub></p>
 
+<h2>Proof at a glance</h2>
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" title="C"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" title="Bootstrap"/></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB"/></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" title="Amazon Web Services"/></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" title="Raspberry Pi"/></a>
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>8</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>2</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>116</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>7</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=rickviper&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66552399%3Fu%3Db327f02a567181b832d72775dd5cdc0b61955997%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=rickviper&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66552399%3Fu%3Db327f02a567181b832d72775dd5cdc0b61955997%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="ULLAS ROY GitHub proof metrics" />
+</picture>
 </p>
 
+<h2>Selected work</h2>
 
-### Socials
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=rickviper&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66552399%3Fu%3Db327f02a567181b832d72775dd5cdc0b61955997%26v%3D4&repos=rickviper%2FpixelForge%2Crickviper%2Flasso%2Crickviper%2FCODORA%2Crickviper%2FFastApiMediaSharingPlatform&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=rickviper&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66552399%3Fu%3Db327f02a567181b832d72775dd5cdc0b61955997%26v%3D4&repos=rickviper%2FpixelForge%2Crickviper%2Flasso%2Crickviper%2FCODORA%2Crickviper%2FFastApiMediaSharingPlatform&v=recruiter-projects-1&mode=dark" width="100%" alt="ULLAS ROY selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/rickviper/pixelForge">pixelForge</a></h3>
+<p>Batch AI upscaling with Real-ESRGAN on your local GPU (auto-detects CUDA / MPS / CPU), sequential queue, full metadata + before/after comparison.</p>
+<p><sub>Python · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/rickviper/pixelForge">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-<p align="left"> <a href="https://discord.com/users/ullas.roy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a> <a href="https://www.github.com/rickviper" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="https://www.linkedin.com/in/ullasroy/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> </p>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/rickviper/lasso">lasso</a></h3><p>A lightweight, privacy-focused Android utility that brings Circle to Search functionality to unsupported devices. Draw around anything on your screen</p><p><sub>Kotlin · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Vinayak2005917/CODORA">CODORA</a></h3><p>CODORA is a collaborative AI workspace for writing documents and generating code. It includes a Django backend and a static frontend with pages for lo</p><p><sub>JavaScript · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/rickviper/FastApiMediaSharingPlatform">FastApiMediaSharingPlatform</a></h3><p>Personal learning project created to explore and understand FastAPI, a modern, fast web framework for building APIs with Python. The project implement</p><p><sub>Python · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-### Badges
+<h2>Technical toolkit</h2>
 
-<a href="http://www.github.com/rickviper"><img src="https://github-readme-stats.vercel.app/api?username=rickviper&theme=tokyonight&show_icons=true&hide=prs,issues,contribs&hide_border=true&show_icons=true" alt="rickviper's GitHub stats" /></a>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickviper&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="rickviper's GitHub Stats" />
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=rickviper&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66552399%3Fu%3Db327f02a567181b832d72775dd5cdc0b61955997%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=rickviper&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66552399%3Fu%3Db327f02a567181b832d72775dd5cdc0b61955997%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="ULLAS ROY technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>39% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>23% of public code</sub></td>
+<td width="20%" align="center"><strong>Kotlin</strong><br /><sub>17% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>12% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>4% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=rickviper&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66552399%3Fu%3Db327f02a567181b832d72775dd5cdc0b61955997%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=rickviper&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66552399%3Fu%3Db327f02a567181b832d72775dd5cdc0b61955997%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="ULLAS ROY contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/rickviper">GitHub</a><br /><a href="https://ullasroy.dpdns.org">Website</a><br /><a href="https://linkedin.com/in/ullasroy">LinkedIn</a><br /><a href="mailto:ullasroy05@gmail.com">Email</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>ULLAS ROY · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+
+## Experience
+
+<b>Education</b>
+
+- Bachelor of Engineering (B.E.) – Computer Science &amp; Engineering — AMC Engineering College, Bengaluru (2023 – 2027)
